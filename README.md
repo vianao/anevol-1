@@ -1,13 +1,12 @@
 简体中文 | [English](./README_EN.md)
 
 <p>
-<strong><h2>無名の主页</h2></strong>
+<strong><h2>anevol</h2></strong>
 简单的小主页，原来的看够了，重新弄了一个
 </p>
+[![pFWWsOK.md.png](https://s21.ax1x.com/2024/03/20/pFWWsOK.md.png)](https://imgse.com/i/pFWWsOK)
 
-![無名の主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
-
->主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Pacifico-Regular.ttf)
+>主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体
 
 ### Demo
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
@@ -133,8 +132,6 @@ make clean all
 
 - 最终可对原字体进行缓加载，**先行加载压缩后的字体**
 
->详细信息可前往 [虹墨空间站](https://www.imaegoo.com/2020/chinese-font-compress/) 查看原文
-
 ### 插件
 
 * [Bootstrap](https://getbootstrap.com/)
@@ -151,5 +148,5 @@ make clean all
 * [ROLL](https://www.mxnzp.com/doc/list)
 * [Hitokoto 一言](https://hitokoto.cn/)
 
-<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://imsyy.top/"></a>
+<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>
 # anevol-1
