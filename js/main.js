@@ -41,7 +41,7 @@ body.addEventListener('mousemove', (e) => {
 });
 
 //移动端去除鼠标样式
-switch (true) {
+switch (false) {
     case navigator.userAgent.indexOf('Mobile') > 0:
         $('#g-pointer-2').css("display", "none");
 }
