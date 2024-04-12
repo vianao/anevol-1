@@ -4,8 +4,6 @@
 <strong><h2>anevol</h2></strong>
 简单的小主页，原来的看够了，重新弄了一个
 </p>
-
-
 ![](http://pan.anevol.cn/1816172447/cdn/blog_images/picture/anevol.png)
 
 >主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体
