@@ -4,9 +4,7 @@ English | [Chinese](./README.md)
 <strong><h2>anevol</h2></strong>
 Simple little homepage, had enough of the original one and made a new one
 </p>
-
-
-![pFWWsOK.md.png](https://s21.ax1x.com/2024/03/20/pFWWsOK.md.png)
+![](http://pan.anevol.cn/1816172447/cdn/blog_images/picture/anevol.png)
 
 >The logo font on the home page has been compressed, so if you use a font other than this logo, it will change back to the default font
 

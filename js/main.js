@@ -40,11 +40,7 @@ body.addEventListener('mousemove', (e) => {
     });
 });
 
-//移动端去除鼠标样式
-switch (false) {
-    case navigator.userAgent.indexOf('Mobile') > 0:
-        $('#g-pointer-2').css("display", "none");
-}
+
 
 //加载完成后执行
 window.addEventListener('load', function () {
